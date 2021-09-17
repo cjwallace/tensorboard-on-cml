@@ -14,6 +14,7 @@ runtimes:
   - editor: Workbench
     kernel: Python 3.6
     edition: Standard
+    addons: []
 
 tasks:
   - type: run_session
